@@ -1,0 +1,5 @@
+package com.devsuperio.dsvendas.entities;
+
+public class Sale {
+
+}

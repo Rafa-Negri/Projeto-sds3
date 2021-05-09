@@ -1,5 +1,0 @@
-package com.devsuperio.dsvendas.config;
-
-public class SecurityConfig {
-
-}

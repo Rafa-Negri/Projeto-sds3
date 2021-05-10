@@ -1,0 +1,5 @@
+package com.devsuperio.dsvendas.dto;
+
+public class SaleDTO {
+
+}

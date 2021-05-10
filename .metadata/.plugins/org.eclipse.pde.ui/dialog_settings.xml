@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="FeatureImportWizard">
+		<item key="droplocation0" value="C:\ws\sts-4.10.0.RELEASE\"/>
+		<item key="droplocation1" value=""/>
+		<item key="doother" value="false"/>
+		<item key="notbinary" value="false"/>
+	</section>
+</section>
